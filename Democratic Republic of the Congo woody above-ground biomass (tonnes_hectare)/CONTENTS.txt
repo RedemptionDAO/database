@@ -1,0 +1,35 @@
+# Dataset Title
+Democratic Republic of the Congo woody above-ground biomass (tonnes/hectare)
+
+
+# URL
+http://databasin.org/datasets/de26082bd4df4bbeabbaf14ae5195ece
+
+
+# Dataset Type
+ArcGIS
+
+
+# Credits
+Woods Hole Research Center
+
+
+# Uploaded By
+[Conservation Biology Institute](http://databasin.org/people/consbio)
+
+
+# Description
+Observations from the moderate resolution imaging spectroradiometer(MODIS) were used in combination with a large data set of Fieldmeasurements to map woody above-ground biomass (AGB) across tropicalAfrica. We generated a best-quality cloud-free mosaic of MODIS satellitereflectance observations for the period 2000-2003 and used a regressiontree model to predict AGB at 1 km resolution. Results based on across-validation approach show that the model explained 82% of thevariance in AGB, with a root mean square error of 50.5 Mg ha-1 for arange of biomass between 0 and 454 Mg ha-1 . Analysis of lidar metricsfrom the Geoscience Laser Altimetry System (GLAS), which are sensitiveto vegetation structure, indicate that the model successfully capturedthe regional distribution of AGB. The results showed a strong positivecorrelation ( R2 = 0.90) between the GLAS height metrics and predicted AGB.
+
+
+# Use Constraints
+When referencing these data please use: Baccini, A., Laporte, N., Goetz, S.J., Sun, M. and Dong, H. 2008. A first map of tropical Africa&#39;s above-ground biomass derived from satellite imagery. Environmental Research Letters 3. stacks.iop.org/ERL/3/045011 Environmental Research Letters 3. stacks.iop.org/ERL/3/045011
+
+
+### Original Metadata
+metadata/metadata1_original.xml
+
+
+### Data Basin Metadata
+metadata/metadata1.xml
+

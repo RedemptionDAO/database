@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ESRI_ItemInformation Culture='en-US'>
+<name>de26082bd4df4bbeabbaf14ae5195ece</name>
+<guid>EAA01A6F-BBAB-4FC2-8070-5EADF7A737C3</guid>
+<catalogpath></catalogpath>
+<snippet></snippet>
+<description>drc_biom</description>
+<summary></summary>
+<title>layer1</title>
+<tags></tags>
+<type>Layer Package</type>
+<typekeywords>
+<typekeyword>Raster Dataset</typekeyword>
+<typekeyword>Layer Package</typekeyword>
+<typekeyword>Data</typekeyword>
+<typekeyword>ArcMap</typekeyword>
+<typekeyword>.lpk</typekeyword>
+</typekeywords>
+<thumbnail>thumbnail/thumbnail.png</thumbnail>
+<documentation></documentation>
+<url></url>
+<datalastmodifiedtime></datalastmodifiedtime>
+<extent>
+<xmin>5.35371331061998</xmin>
+<ymin>-13.8278557692687</ymin>
+<xmax>39.1409017211078</xmax>
+<ymax>6.1598188518879</ymax>
+</extent>
+<spatialreference>WGS_1984_Web_Mercator_Auxiliary_Sphere</spatialreference>
+<accessinformation></accessinformation>
+</ESRI_ItemInformation>
